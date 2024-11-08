@@ -1,0 +1,6 @@
+*.out
+main.c
+my_putchar.c
+bonus/*.out
+bonus/main.c
+bonus/my_putchar.c
